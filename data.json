@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "photo":"1.png",
+    "name":"S.Reshma",
+    "email":"resh.lucky.786@gmail.com",
+    "phone":"9703030806"
+  },
+  "education":[
+    {
+      "course":"B.Tech(Computer Science an Engineering)",
+      "college":[
+        "Ravindra college of Engineering For Women",
+        "2015-2019",
+        "75%"
+      ]
+    },
+    {
+      "course":"Intermediate(MPC)",
+      "college":[
+        "Ravindra junior college",
+        "2013-2015",
+        "82%"
+      ]
+    },
+    {
+      "course":"SSC",
+      "college":[
+        "Ravindra English Medium School for Girls",
+        "2012-2013",
+        "92%"
+      ]
+    }
+  ],
+  "skills":[
+  {
+    "name":"operating systems",
+    "value":"windows,Linux"
+  },
+  {
+    "name":"programming languages",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value":"HTML,Python"
+  }
+]
+}
